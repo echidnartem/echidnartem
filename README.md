@@ -47,8 +47,6 @@
 | :--- | :--- | :--- |
 | [React Pomodoro & Meditation Timer](https://github.com/echidnartem/pomodoro-timer) | A minimal, ad-free Pomodoro timer with task manager and meditation mode. Saves progress locally and works offline. | React, TypeScript, Vite, CSS Modules, LocalStorage API |
 
----
-
 ### 🎓 Study Projects
 <!-- *Projects completed during my coursework at Yandex Practicum. They demonstrate my foundational knowledge and ability to ship working features.* -->
 
