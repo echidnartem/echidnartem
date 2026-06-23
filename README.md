@@ -14,7 +14,7 @@
 
 🎓 **[MAI](https://mai.ru) Student** | 💻 Frontend Intern  
 🌱 Exploring **React, TypeScript, and UI/UX**  
-♾️ Believe in limitless possibilities 
+♾️ Believe in limitless possibilities  
 🤝 Open to internships and collaborations  
 📫 Reach me: **echidnartem@gmail.com**
 
