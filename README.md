@@ -45,9 +45,16 @@
 
 | Name | Description | Stack |
 | :--- | :--- | :--- |
-| [React Pomodoro & Meditation Timer](https://github.com/echidnartem/pomodoro-timer) | A minimal, ad-free Pomodoro timer with task manager and meditation mode. Saves progress locally and works offline. | React, TypeScript, Vite, CSS Modules, LocalStorage API |
+| [React Pomodoro & Meditation Timer](https://github.com/echidnartem/pomodoro-timer) | A minimal, ad-free Pomodoro timer with task manager and meditation mode. Saves progress locally and works offline. | CSS, CSS Modules, React, TypeScript, LocalStorage, Vite  |
 
 ### 🎓 Study Projects
-<!-- *Projects completed during my coursework at Yandex Practicum. They demonstrate my foundational knowledge and ability to ship working features.* -->
+*Projects completed during my coursework at Yandex Practicum. They demonstrate my foundational knowledge and ability to ship working features.*
 
-*Currently polishing READMEs for each project. They will appear here soon — stay tuned!*
+| Name | Description | Stack |
+| :--- | :--- | :--- |
+| [Оно тебе надо](https://github.com/echidnartem/ono-tebe-nado) | Landing page for a fictional auction. First layout project based on a Figma design. | HTML, CSS, Figma |
+| [Посмотри в окно](https://github.com/echidnartem/posmotri-v-okno) | Video search app with city and time filters. Works with the Yandex Practicum training API. | HTML, CSS, JavaScript, REST API, Figma |
+| [Сложно сосредоточиться](https://github.com/echidnartem/slozhno-sosredotochitsya) | Article page about concentration with theme switching. Focus on CSS variables and adaptive layout. | HTML, CSS, CSS Variables, JavaScript, Figma |
+| [Закрывающий тег](https://github.com/echidnartem/zakrivayuschiy-teg) | Memory gallery with animated like buttons and modal window. Practice with CSS animations and positioning. | HTML, CSS, CSS Animations, JavaScript, Figma |
+| [To-Do List](https://github.com/echidnartem/to-do-pre) | Task management app with add, edit, delete, and duplicate functions. Data saved in LocalStorage. First fully self-written JS project. | HTML, CSS, JavaScript, LocalStorage, Figma |
+| [Mesto](https://github.com/echidnartem/mesto) | Full-featured SPA for sharing photos with authorization, likes, and profile editing. Works with REST API. Final project with Vite and GitHub Actions. | HTML, CSS, JavaScript, REST API, Vite, GitHub Actions, Figma |
